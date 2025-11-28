@@ -37,7 +37,7 @@ Discord: aerozer0grinder
 Remember: Use your own API key! Don't ask for mine.
 
 
-See tutorial.txt for more details.:smile:
+See tutorial.txt for more details. 😄
 
 
 This readme.md is made using AI.
