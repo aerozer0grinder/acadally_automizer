@@ -37,7 +37,7 @@ Discord: aerozer0grinder
 Remember: Use your own API key! Don't ask for mine.
 
 
-Download files here : final_download.zip
+Download files here : https://github.com/aerozer0grinder/acadally_automizer/blob/main/final_download.zip
 
 
 See tutorial.txt for more details. 😄
